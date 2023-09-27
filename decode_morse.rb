@@ -8,3 +8,16 @@ DECODE_CHAR = {
   '.....' => 5, '-....' => 6, '--...' => 7, '---..' => 8, '----.' => 9
 }.freeze
 
+def decode_char(char)
+  DECODE_CHAR[char] || ''
+end
+
+def decode_word(string)
+  string.split.map { |char| decode_char(char) }.join
+end
+
+def decode(string)
+  string.split('   ').map { |word| decode_word(word) }.join(' ')
+end
+
+decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
