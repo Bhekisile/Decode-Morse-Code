@@ -128,11 +128,11 @@ Example:
 - GitHub: [@Bhekisile](https://github.com/Bhekisile)
 - LinkedIn: [BhekisileJozi](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
 
-👤 **Author2**
+👤 **Ikonde Nekemiah Arnold**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/arnoldnekemiah)
+- Twitter: [@twitterhandle](https://twitter.com/arnoldikonde)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/arnoldnekemiah)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
