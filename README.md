@@ -6,27 +6,21 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
-  <!-- - [Install](#install) -->
-  <!-- - [Usage](#usage) -->
-  <!-- - [Run tests](#run-tests) -->
-  <!-- - [Deployment](#deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Decode a Morse code message] <a name="about-project"></a>
 
-**[Decode a Morse code message]** is a project about translating Morse code to text.
+**[Decode a Morse code message]** is a project about decoding Morse code to text.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +29,7 @@
 <details>
   <summary>Ruby</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li>Ruby</li>
   </ul>
 </details>
 
@@ -47,18 +41,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-<!-- 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -67,37 +49,12 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
 
   git clone git@github.com:Bhekisile/Decode-Morse-Code.git
 
-<!-- ### Usage
-
-To run the project, execute the following command: -->
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-<!-- ### Run tests
-
-To run tests, run the following command: -->
-
-<!--
 Example command:
 
 ```sh
@@ -105,25 +62,11 @@ Example command:
 ```
 --->
 
-<!-- ### Deployment
-
-You can deploy this project using: -->
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+👤 **Bhekisile Jozi**
 
 - GitHub: [@Bhekisile](https://github.com/Bhekisile)
 - LinkedIn: [BhekisileJozi](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
@@ -169,22 +112,6 @@ If you like this project you can star the repository.
 I would like to thank Microverse for giving me all the necessary knowledge I need to make this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-<!-- ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- LICENSE -->
 
